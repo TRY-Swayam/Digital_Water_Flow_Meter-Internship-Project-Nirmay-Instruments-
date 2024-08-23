@@ -1,0 +1,5 @@
+Software - Arduino.ide
+Screen Type -oled
+Screen Size-2.42 in
+Microcontroller-Arduino r3
+Sensor-Water Flow Sensor YF-S201
