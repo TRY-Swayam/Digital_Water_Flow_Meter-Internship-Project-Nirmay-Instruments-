@@ -1,6 +1,8 @@
-<h1> 17V Power Supply & Digital Power Supply </h1>
+<h1> Projects Overview </h1>
 
-<h2><b>Overview</b></h2>
+<h2> 17V Power Supply & Digital Power Supply </h2>
+
+<h3><b>Overview</b></h3>
 
 These projects were developed during my internship at Nirmay Instruments Pvt Ltd. They involve the creation of a 17-volt power supply for industrial use and a digital power supply with adjustable output.
 
